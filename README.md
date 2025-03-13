@@ -1,4 +1,4 @@
-# trafficlight
+# TrafficLight
 
 A new Flutter project.
 
